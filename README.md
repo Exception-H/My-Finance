@@ -6,7 +6,7 @@
 ---
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Built with Assistant](https://img.shields.io/badge/Assistant-MyFinance-blue.svg)](https://github.com/your-username/my-finance)
+[![Built with Assistant](https://img.shields.io/badge/Assistant-MyFinance-blue.svg)](https://github.com/Exception-H/my-finance)
 
 ## 1. 多源数据一键聚合
 
